@@ -20,3 +20,11 @@ The git pull command is used to fetch and download content from a remote reposit
 
 #What does "git push" command do?
 The git push command is used to upload local repository content to a remote repository
+
+#What is abranch on git?
+ branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git
+ is master . As you start making commits, you're given a master branch that points to the last commit you made.
+
+#What does git log do?
+The Git Log tool allows you to view information about previous commits that have occurred in a project. The simplest version of the log command shows the 
+commits that lead up to the state of the currently checked out branch.

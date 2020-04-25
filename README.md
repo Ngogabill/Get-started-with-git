@@ -1,31 +1,31 @@
-#What is Git?
+# What is Git?
 
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
-#What is branch in Git?
+# What is branch in Git?
 
 A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master
 
-#What does "git add" command do?
+# What does "git add" command do?
 
 The "commit" command is used to save your changes to the local repository. Note that you have to explicitly tell Git which changes you want to include in a commit before running the "git commit" command
 
-#What does "git commit" command do?
+# What does "git commit" command do?
 
 The "commit" command is used to save your changes to the local repository. ... Using the "git commit" command only saves a new commit object in the local Git repository.
 
-#What does "git checkout" do? Explain at least 2 usages of "git checkout"
+# What does "git checkout" do? Explain at least 2 usages of "git checkout"
 
 The git checkout command is used to update the state of the repository to a specific point in the projects history
 
-#What does "git pull" command do?
+# What does "git pull" command do?
 
 The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content
 
-#What does "git push" command do?
+# What does "git push" command do?
 
 The git push command is used to upload local repository content to a remote repository
 
-#What is branch in Git?
+# What is branch in Git?
 
 A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master
